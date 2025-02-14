@@ -45,18 +45,18 @@ Project: Display and manage product listings
 
 📂 Repository Structure
 /Week1_Activities
-  ├── Day1_HelloWorld/
-  ├── Day2_CSharpBasics/
-  ├── Day3_OOP/
-  ├── Day4_Middleware/
-  ├── Day5_MVC_Basics/
-  ├── Day6_HandsOnProject/
-  ├── Upcoming_Activities/  # Placeholder for future activities
+  ├── Day1_HelloWorld/ \n
+  ├── Day2_CSharpBasics/ \n
+  ├── Day3_OOP/ \n
+  ├── Day4_Middleware/ \n
+  ├── Day5_MVC_Basics/ \n
+  ├── Day6_HandsOnProject/ \n
+  ├── Upcoming_Activities/  # Placeholder for future activities \n
 
 💡 How to Run the Code?
 
 1️⃣ Clone the Repository:
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/thehimanshurawat/.NET-Learning
 
 2️⃣ Navigate to a project directory:
 cd Week1_Activities/DayX_Activity
