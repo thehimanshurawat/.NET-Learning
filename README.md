@@ -43,8 +43,8 @@ Project: Display and manage product listings
 🔸 Web APIs & Integration with databases
 🔸 Unit Testing & Deployment
 
-📂 Repository Structure
-/Week1_Activities<br>
+📂 Repository Structure <br>
+/Week1_Activities <br>
   ├── Day1_HelloWorld/ <br>
   ├── Day2_CSharpBasics/ <br>
   ├── Day3_OOP/ <br>
