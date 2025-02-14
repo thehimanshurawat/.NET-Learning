@@ -45,13 +45,13 @@ Project: Display and manage product listings
 
 📂 Repository Structure
 /Week1_Activities
-  ├── Day1_HelloWorld/ \n
-  ├── Day2_CSharpBasics/ \n
-  ├── Day3_OOP/ \n
-  ├── Day4_Middleware/ \n
-  ├── Day5_MVC_Basics/ \n
-  ├── Day6_HandsOnProject/ \n
-  ├── Upcoming_Activities/  # Placeholder for future activities \n
+  ├── Day1_HelloWorld/ <br>
+  ├── Day2_CSharpBasics/ <br>
+  ├── Day3_OOP/ <br>
+  ├── Day4_Middleware/ <br>
+  ├── Day5_MVC_Basics/ <br>
+  ├── Day6_HandsOnProject/ <br>
+  ├── Upcoming_Activities/  # Placeholder for future activities <br>
 
 💡 How to Run the Code?
 
