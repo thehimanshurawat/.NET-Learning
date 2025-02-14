@@ -44,7 +44,7 @@ Project: Display and manage product listings
 🔸 Unit Testing & Deployment
 
 📂 Repository Structure
-/Week1_Activities
+/Week1_Activities<br>
   ├── Day1_HelloWorld/ <br>
   ├── Day2_CSharpBasics/ <br>
   ├── Day3_OOP/ <br>
