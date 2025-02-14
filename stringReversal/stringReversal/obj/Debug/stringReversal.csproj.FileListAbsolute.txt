@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\bin\Debug\stringReversal.exe.config
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\bin\Debug\stringReversal.exe
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\bin\Debug\stringReversal.pdb
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\obj\Debug\stringReversal.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\obj\Debug\stringReversal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\obj\Debug\stringReversal.exe
+C:\Users\Admin\Desktop\.NET\stringReversal\stringReversal\obj\Debug\stringReversal.pdb
