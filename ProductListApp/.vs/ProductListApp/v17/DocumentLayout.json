@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|c:\\users\\admin\\desktop\\.net\\productlistapp\\productlistapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3BE4219-3741-4501-960B-4845E7E3F0DB}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProductListApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductListApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-14T09:15:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductListApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T09:10:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductListApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:08:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProductListApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProductListApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T09:04:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductListApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductListApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T09:03:08.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductListApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductListApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T08:59:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductListApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:57:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.NET\\ProductListApp\\ProductListApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductListApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:53:56.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
